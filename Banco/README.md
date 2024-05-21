@@ -24,6 +24,11 @@
         - Função extrato: Deve receber argumentos por posição e nome.
         - Melhorias gerais na UI.
 
+    v3 - Modelagem do código para Programação Orientada a Objetos
+    Adicionar classes para cliente e as operações bancarias: depósito e saque
+    Modelar o código conforme o diagrama abaixo  
+🗺️ [Diagrama UML](TrilhaPythonDesafio.png)
+
     
 
 ### 🌄 Futuro
@@ -39,3 +44,10 @@
     - Funções criar conta, criar conta corrente adicionadas
     - Funções de listar todas as contas e todos os usuários cadastrados
     - Atualizado código para funções saque, depósito e extrato e melhoria de desempenho
+
+#### V.3
+    - Classes Cliente, PessoaFisica, Conta, ContaCorrente, Historico, Transação
+    Saque, Deposito implementadas
+    - Melhorias no código para melhor desempenho e entendimento
+    - Criação de um main()
+    - Removido a função de listar os clientes
